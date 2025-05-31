@@ -164,7 +164,7 @@ const AlanKBiju = {
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/alan-k-biju/" target="_blank">
+  <a href="https://www.linkedin.com/in/alan-k-biju/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
