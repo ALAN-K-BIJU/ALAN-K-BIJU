@@ -161,6 +161,20 @@ const AlanKBiju = {
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ALAN-K-BIJU&color=f3b231&style=for-the-badge&label=PROFILE+VIEWS">  
 </p>
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/alan-k-biju/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:alankorethbiju@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/ALAN_K_BIJU" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
+  </a>
+</p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fbad10&height=120&section=footer"/>
 
