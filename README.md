@@ -161,6 +161,9 @@ const AlanKBiju = {
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ALAN-K-BIJU&color=f3b231&style=for-the-badge&label=PROFILE+VIEWS">  
 </p>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
