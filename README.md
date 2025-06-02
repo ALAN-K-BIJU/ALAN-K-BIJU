@@ -16,8 +16,8 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=f3b231&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+my+logo)](https://git.io/typing-svg)
 
-  [My Resume 🇮🇳](https://docs.google.com/document/d/195tLQi_MrL3lDW_EkHFAp-OesJnB16zt5ISKzWX9bb4/edit?usp=sharing) ⬅️➡️
-  [എന്റെ ബയോഡേറ്റ 🇮🇳](https://docs.google.com/document/d/195tLQi_MrL3lDW_EkHFAp-OesJnB16zt5ISKzWX9bb4/edit?usp=sharing)
+  [My Resume 🇮🇳](https://docs.google.com/document/d/13tsNJk_XajYACU3l64QPt3B_Lcp1s9cf/edit?usp=sharing&ouid=108744620260546853523&rtpof=true&sd=true) ⬅️➡️
+  [എന്റെ ബയോഡേറ്റ 🇮🇳](https://docs.google.com/document/d/13tsNJk_XajYACU3l64QPt3B_Lcp1s9cf/edit?usp=sharing&ouid=108744620260546853523&rtpof=true&sd=true)
 </div>
 
 <p align="center">
