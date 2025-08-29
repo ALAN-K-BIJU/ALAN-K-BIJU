@@ -16,8 +16,8 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=20000&color=f3b231&center=true&vCenter=true&width=1000&lines=Access+my+portfolio+&#9757;+by+clicking+my+logo)](https://git.io/typing-svg)
 
-  [My Resume 🇮🇳](https://github.com/ALAN-K-BIJU/Resume/blob/main/ALAN_K_BIJU_github.pdf) ⬅️➡️
-  [എന്റെ ബയോഡേറ്റ 🇮🇳](https://github.com/ALAN-K-BIJU/Resume/blob/main/ALAN_K_BIJU_github.pdf)
+  [My Resume 🇮🇳](https://drive.google.com/file/d/1jJdKsIv48ey2FulW3vl9hL4p9xflzyIQ/view?usp=sharing) ⬅️➡️
+  [എന്റെ ബയോഡേറ്റ 🇮🇳](https://drive.google.com/file/d/1jJdKsIv48ey2FulW3vl9hL4p9xflzyIQ/view?usp=sharing)
 </div>
 
 <p align="center">
